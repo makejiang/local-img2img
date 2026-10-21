@@ -1,0 +1,25 @@
+{
+  "author": "Github",
+  "author_icon": "https://static.marvis.qq.com/wupload/skill-author-icons/1778639349473_GitHub.png",
+  "description": "placeholder",
+  "detail_describe": "根据输入图片和文字提示在本地修改图片\n首次自动下载量化模型并构建运行环境\n输出图片右下角固定带有 AI生成 水印\n每次调用在前台完成推理并释放资源",
+  "display_description": "基于本地AI大模型的图片修改(仅限英特尔AIPC平台)",
+  "display_name": "本地图生图",
+  "icon": "https://static.marvis.qq.com/wupload/skill-icons/1781513804136_330_%E6%9C%AC%E5%9C%B0%E5%9B%BE%E7%94%9F%E5%9B%BE.png?imageMogr2/thumbnail/224x/format/webp",
+  "icon_url": "https://static.marvis.qq.com/wupload/skill-icons/1781513804136_330_%E6%9C%AC%E5%9C%B0%E5%9B%BE%E7%94%9F%E5%9B%BE.png?imageMogr2/thumbnail/224x/format/webp",
+  "id": 382,
+  "is_downloaded": false,
+  "name": "local-img2img",
+  "scope": [
+    "main"
+  ],
+  "show_description": "基于本地AI大模型的图片修改(仅限英特尔AIPC平台)",
+  "show_name": "本地图生图",
+  "type": "英特尔用户专区",
+  "use_cases": [
+    "把这张狗狗照片里的狗改成戴草帽的小猫",
+    "修改这张人像照片，把背景换成阳光海滩",
+    "把这张图片改成温暖的水彩插画风格"
+  ],
+  "version": "1.0.16"
+}

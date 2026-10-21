@@ -1,0 +1,14 @@
+{
+  "venv_name": "t2i-i2i-tts",
+  "python_version": "3.12",
+  "models": [
+    {
+      "model_id": "aiplayground/FLUX.2-klein-4B-int4-ov",
+      "dir_name": "FLUX.2-klein-4B-int4-ov",
+      "required_files": [
+        "model_index.json",
+        "openvino_config.json"
+      ]
+    }
+  ]
+}

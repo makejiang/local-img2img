@@ -1,0 +1,19 @@
+# Base Libs
+numpy==2.4.6
+pillow==12.3.0
+torch>=2.4
+
+# OpenVINO
+openvino==2026.4.1
+openvino-tokenizers==2026.4.1.0
+openvino-genai==2026.4.1.0
+
+# Other dependencies
+scipy
+soundfile
+modelscope
+colorama
+psutil
+sentencepiece
+accelerate
+qwen-tts
